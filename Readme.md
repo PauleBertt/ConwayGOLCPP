@@ -3,10 +3,15 @@ Created from bordom and for procrastination
 **This is an SDL2 C++ Implementation of Conway's Game of Life**
 
 instructions:
-space -> pauses the game
-    while paused:
-        right arrow -> one step
-        space -> resume the game
-mouse click on the field -> change tile state
 
-c -> clears the field
+| command       | effect                               | 
+| ------------- |:------------------------------------:| 
+| space         | pauses the game                      |
+| right arrow   | (while paused) one game step         |
+| space         | (while paused) resumes the game      |
+| mouse click   | change tile state                    |
+| c             | deletes the field                    |
+
+
+**Note:**
+You need sdl2 and sdl2_image for this.
