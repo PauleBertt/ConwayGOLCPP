@@ -1,8 +1,6 @@
 #include <iostream>
 #include "Conway.hpp"
 #include "SDL_Handler.hpp"
-using namespace std::chrono;
-
 int main()
 {
     int gameSize = 100;
