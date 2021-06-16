@@ -1,3 +1,5 @@
+https://github.com/PauleBertt/ConwayGOLCPP/actions/workflows/cmake.yml/badge.svg
+
 Created from bordom and for procrastination
 
 **This is an SDL2 C++ Implementation of Conway's Game of Life**
