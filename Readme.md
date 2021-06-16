@@ -1,4 +1,4 @@
-https://github.com/PauleBertt/ConwayGOLCPP/actions/workflows/cmake.yml/badge.svg
+![example workflow](https://github.com/PauleBertt/ConwayGOLCPP/actions/workflows/cmake.yml/badge.svg)
 
 Created from bordom and for procrastination
 
